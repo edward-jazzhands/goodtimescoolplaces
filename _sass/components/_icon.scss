@@ -10,6 +10,7 @@
 		@include icon;
 		border-bottom: none;
 		position: relative;
+		font-size: 2em;
 
 		> .label {
 			display: none;
@@ -20,10 +21,11 @@
 				background-color: _palette(bg);
 				color: _palette(fg-bold);
 				display: inline-block;
-				height: 4em;
-				line-height: 4em;
+				height: 2em;
+				line-height: 2em;
 				text-align: center;
-				width: 4em;
+				width: 2em;
+				font-size: 2em;
 			}
 		}
 	}

@@ -1,7 +1,7 @@
 # site settings
 title: Good Times
 subtitle: Cool Places
-email: ed.jazzhands@gmail.com
+email: goodtimescoolplaces@gmail.com
 description: We discover the world's unforgettable spots, unique experiences, & hidden gems.
 baseurl: "/goodtimescoolplaces" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
