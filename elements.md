@@ -108,7 +108,7 @@ Finally, this is a <a href="#">link</a>.</p>
 <h3>Image</h3>
 
 <h4>Fit</h4>
-<!-- 
+
 <span class="image fit"><img src="{% link assets/images/posts/hardrock1.jpg %}" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
@@ -123,5 +123,5 @@ Finally, this is a <a href="#">link</a>.</p>
 		<div class="4u$"><span class="image fit"><img src="{% link assets/images/posts/hardrock1.jpg %}" alt="" /></span></div>
 	</div>
 </div>
- -->
+
 </div>
