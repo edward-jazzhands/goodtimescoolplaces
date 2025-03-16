@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Discover something awesome'
+landing-title: 'Bring your brand to life'
 description: null
 image: null
 author: null
