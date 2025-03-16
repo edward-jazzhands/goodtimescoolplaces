@@ -6,6 +6,7 @@ description: We discover the world's unforgettable spots, unique experiences, & 
 baseurl: "/goodtimescoolplaces" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 phone: http://wa.me/35699741668
+formspree: f/xldjdbzj
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
