@@ -18,13 +18,12 @@
 		&.alt {
 			&:before {
 				background-color: _palette(bg);
-				// border-radius: 100%;
 				color: _palette(fg-bold);
 				display: inline-block;
-				height: 3em;
+				height: 4em;
 				line-height: 3em;
 				text-align: center;
-				width: 3em;
+				width: 2em;
 			}
 		}
 	}
@@ -32,7 +31,7 @@
 	a.icon {
 		&.alt {
 			&:before {
-				@include vendor('transition', 'background-color #{_duration(transition)} ease-in-out');
+				@include vendor('transition', 'color #{_duration(transition)} ease-in-out');
 			}
 
 			&:hover {

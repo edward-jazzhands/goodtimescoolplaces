@@ -13,7 +13,14 @@
     font-weight:normal;
     font-style:normal
 }
- .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+ .fa{
+    display:inline-block;
+    font:normal normal normal 14px/1 FontAwesome;
+    font-size:inherit;
+    text-rendering:auto;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale
+}
 .fa-lg{font-size:1.33333333em;line-height:.75em;vertical-align:-15%}
 .fa-2x{font-size:2em}
 .fa-3x{font-size:3em}
@@ -406,7 +413,6 @@
 .fa-thumbs-down:before{content:"\f165"}
 .fa-youtube-square:before{content:"\f166"}
 .fa-youtube:before{content:"\f167"}
-.fa-tiktok:before{content:"\e07b"}
 .fa-xing:before{content:"\f168"}
 .fa-xing-square:before{content:"\f169"}
 .fa-youtube-play:before{content:"\f16a"}
