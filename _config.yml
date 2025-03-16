@@ -2,7 +2,7 @@
 title: Good Times
 subtitle: Cool Places
 email: mailto:goodtimescoolplaces@gmail.com
-description: Discovering the world's unforgettable spots, unique experiences, & hidden gems.
+description: We discover the world's unforgettable spots, unique experiences, & hidden gems.
 baseurl: "/goodtimescoolplaces" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -23,8 +23,14 @@ tiles-count: 6
 # You need to restart jekyll for changes to have an effect
 socials:
   Instagram: https://www.instagram.com/goodtimescoolplaces
+  WhatsApp: http://wa.me/35699741668
   Twitter: http://x.com/goodtimescoolp
+  Youtube: https://www.youtube.com/@goodtimescoolplaces
   Facebook: https://www.facebook.com/share/CwoL2WPhEyk3qG8M/?mibextid=LQQJ4d
+  Snapchat: https://snapchat.com/t/D4jXI4GH
+  Pinterest: https://pin.it/3NHxhZNaC
+  Mail: mailto:goodtimescoolplaces@gmail.com
+
 
 # build settings
 markdown: kramdown
