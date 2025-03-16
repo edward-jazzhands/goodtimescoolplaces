@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Discover something awesome'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Good Times Cool Places is a group of videographers that are dedicated to transforming your brand's story into compelling visual content that drives results. With our creative expertise and marketing insight, we craft videos that not only capture attention but convert viewers into customers. From concept to final cut, we deliver professional production value with a strategic approach that ensures your message resonates with your target audience.
