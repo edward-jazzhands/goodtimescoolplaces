@@ -21,10 +21,10 @@
 				// border-radius: 100%;
 				color: _palette(fg-bold);
 				display: inline-block;
-				height: 2em;
-				line-height: 2em;
+				height: 3em;
+				line-height: 3em;
 				text-align: center;
-				width: 2em;
+				width: 3em;
 			}
 		}
 	}
@@ -37,13 +37,13 @@
 
 			&:hover {
 				&:before {
-					background-color: _palette(highlight);
+					color: _palette(highlight);
 				}
 			}
 
 			&:active {
 				&:before {
-					background-color: desaturate(darken(_palette(highlight), 15), 5);
+					color: desaturate(darken(_palette(highlight), 15), 5);
 				}
 			}
 		}
