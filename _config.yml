@@ -5,12 +5,6 @@ email: mailto:goodtimescoolplaces@gmail.com
 description: We discover the world's unforgettable spots, unique experiences, & hidden gems.
 baseurl: "/goodtimescoolplaces" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
-street_address: 
-city: 
-state: 
-zip_code: 
-country: 
 phone: http://wa.me/35699741668
 
 # homepage tiles
@@ -24,7 +18,7 @@ tiles-count: 6
 socials:
   Instagram: https://www.instagram.com/goodtimescoolplaces
   WhatsApp: http://wa.me/35699741668
-  TikTok: https://www.tiktok.com/@goodtimescoolplaces
+  Tiktok: https://www.tiktok.com/@goodtimescoolplaces
   Twitter: http://x.com/goodtimescoolp
   Youtube: https://www.youtube.com/@goodtimescoolplaces
   Facebook: https://www.facebook.com/share/CwoL2WPhEyk3qG8M/?mibextid=LQQJ4d
